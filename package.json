@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-grid-challenge",
+  "version": "1.0.0",
+  "description": "Bootstrap grid challenge",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Derek Wang",
+  "license": "ISC",
+  "dev_dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
